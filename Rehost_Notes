@@ -1,0 +1,15 @@
+How To Use
+
+For Emulator: 
+Navigate to save file location (In Citra, right click on game, and click Open Save Data location.                                
+Open game1.yw in the provided Executable file (YokaiEditor2.exe)                              
+edit values, and save
+Open game in emulator and profit
+                               
+For 3DS (Homebrew Obviously Required)
+Export save from console using JKSM/Checkpoint
+Find game1.yw in its respective folder when inserting the sd card from the console, and open it in the provided executable.
+Edit values and save to previous save's location
+Open the respective app on the 3ds (JKSM/Checkpoint) and load the save file.
+Launch the Yo-Kai Watch Version you edited the save for
+Profit
